@@ -30,10 +30,7 @@
             <version>3.2.3</version>
             <configuration>
                 <version>${build.version}</version>
-            </configuration>
-                <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.12.1</version>
+            </configuration>      
         </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
