@@ -8,4 +8,4 @@ else
     docker login -u $DOCKER_HUB_USER -p $DOCKER_HUB_PASSWORD
 fi
 
-docker push burhanraja28/jenkins-demo_2:$1
+docker image push burhanraja28/jenkins-demo_2:latest
